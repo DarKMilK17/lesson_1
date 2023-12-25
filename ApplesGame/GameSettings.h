@@ -11,7 +11,7 @@ namespace ApplesGame
 	const float APPLE_SIZE = 30.f/1.5; //размер яблок (бананов в моем случае)
 	const float INITIAL_SPEED = 100.f*1.2; //скорость пакмэна
 	const float ACCELERATION = 5.f; // For each eaten apple player speed will be increased by this value - ускорение пакмэна при съедании яблока
-	const int NUM_APPLES = 100; //количество яблок на экране
+	const int NUM_APPLES = 150; //количество яблок на экране
 	const unsigned int SCREEN_WIDTH = 1920; //ширина окна
 	const unsigned int SCREEN_HEGHT = 1080; //высота окна
 }
