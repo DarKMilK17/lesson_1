@@ -1,6 +1,7 @@
 # Intoduction
 This repository is collection of reference projects for XYZ school c++ course.
-Just open the Game.sln and enjoy.
+Just open the Game.sln and enjoy. <br >
+HI!
 
 # License and author rights 
 ©2023, XYZ School. All rights reserved.
