@@ -8,7 +8,7 @@ namespace ApplesGame
 
 	// Game settings constants - игровые настройки
 	const float PLAYER_SIZE = 30.f; //размер пакмэна
-	const float APPLE_SIZE = 20.f/1.5; //размер яблок (бананов в моем случае)
+	const float APPLE_SIZE = 30.f/1.5; //размер яблок (бананов в моем случае)
 	const float INITIAL_SPEED = 100.f*1.2; //скорость пакмэна
 	const float ACCELERATION = 5.f; // For each eaten apple player speed will be increased by this value - ускорение пакмэна при съедании яблока
 	const int NUM_APPLES = 20; //количество яблок на экране
